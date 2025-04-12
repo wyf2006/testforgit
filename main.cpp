@@ -27,7 +27,7 @@
  controller Controller = controller();
  
  // 数字输出(气缸) 
- digital_out digout = digital_out(Brain.ThreeWirePort.A);
+ //digital_out digout = digital_out(Brain.ThreeWirePort.A);
 
 
  
